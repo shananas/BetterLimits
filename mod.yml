@@ -1,0 +1,14 @@
+title: #bringbackgoodknocksmash
+originalAuthor: Shananas
+description: #bringbackgoodknocksmash
+assets:
+
+#limit
+- method: binarc
+  name: 00battle.bin
+  source:
+  - method: copy
+    name: atkp
+    source:
+    - name: atkp_0.list
+    type: list
