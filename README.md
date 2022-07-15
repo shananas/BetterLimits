@@ -1,3 +1,3 @@
-# bringbackgoodknocksmash
+Better Limits
 
-Buffed the finisher of knocksmash back the KH2 English
+Giving limits the stronget values theyve had. Whether its from KH2J KH2E or KH2FM
