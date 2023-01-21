@@ -7,8 +7,9 @@ assets:
 - method: binarc
   name: 00battle.bin
   source:
-  - method: copy
-    name: atkp
+  - name: atkp
+    method: listpatch
+    type: List
     source:
-    - name: atkp_0.list
-    type: list
+    - name: AtkpList.yml
+      type: atkp
